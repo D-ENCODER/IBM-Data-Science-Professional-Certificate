@@ -1,21 +1,41 @@
 # Languages
 
-### 1. Which of the following options determines your choice of language to learn in data science? 
+### 1. What does Python use for Natural Language Processing?
 
-Problem to be solved and for who are you solving for
+Natural Language Toolkit
 
-### 2. In Python, which library is used for Artificial Intelligence? 
+### 2. In Python, which library is not used for Data Science?
 
-TensorFlow
+Caffe
 
-### 3. What are the differences between Python and R languages? 
+### 3. Which of the following is developed using the R language?
 
-Python is open source, and R is free software.
+Graphing
 
-### 4. What is the primary purpose of SQL? 
+### 4. Which statement is true for Open source and free software?
 
-To query and handle structured data
+Open source is more business focused, while free software is more focused on a set of values.
 
-### 5. Which of the following language is an object-oriented programming language?
+### 5. Which of the following is a global R community?
+
+useR
+
+### 6. Is the following statement true or false: R integrates well with C and C++..
+
+True
+
+### 7. Which of the following is not an SQL language element?
+
+Spreadsheets
+
+### 8. Why is SQL an American National Standards Institute (or AN-see) standard?
+
+SQL knowledge applies to multiple databases
+
+### 9. Which Scala program is used for data science?
+
+Apache Spark
+
+### 10. Which is the language used to develop the Hadoop framework?
 
 Java
